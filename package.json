@@ -1,0 +1,13 @@
+{
+  "name": "policyguard",
+  "version": "1.0.0",
+  "description": "隐私政策分析和总结工具",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "cd frontend && npm run dev"
+  },
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+} 
