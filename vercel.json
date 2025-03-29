@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "buildCommand": "cd frontend && npm install && npm run build",
-  "installCommand": "echo 'Skipping automatic install'",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
   "outputDirectory": "frontend/dist",
   "public": true,
   "github": {
