@@ -1,0 +1,1 @@
+This file helps Vercel recognize the public directory structure. 
